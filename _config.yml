@@ -1,0 +1,14 @@
+layout_spectrum: 0.982277
+color:
+  saturation: 0.2969925
+  lightness: 0.7030075
+  brandStrength: 0.9124597
+  brandColors:
+    - '#E0DACF'
+    - '#BBAC88'
+    - '#4D9AC4'
+    - '#664130'
+    - '#AC6F64'
+  rhythmicContrast: 0.830827
+typography_spectrum: 0.8909774
+name: Diimension
