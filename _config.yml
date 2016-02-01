@@ -1,14 +1,26 @@
-layout_spectrum: 0.982277
 color:
   saturation: 0.2969925
-  lightness: 0.7030075
   brandStrength: 0.9124597
+  rhythmicContrast: 0.830827
   brandColors:
     - '#E0DACF'
     - '#BBAC88'
     - '#4D9AC4'
     - '#664130'
     - '#AC6F64'
-  rhythmicContrast: 0.830827
+  lightness: 0.7030075
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.982277
 typography_spectrum: 0.8909774
 name: Diimension
